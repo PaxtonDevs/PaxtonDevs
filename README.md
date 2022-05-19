@@ -1,4 +1,4 @@
-### Hi there 👋
+![Alt Text](https://i.imgur.com/DlwkKGO.gif)
 
 <!--
 **PaxtonDevs/PaxtonDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
