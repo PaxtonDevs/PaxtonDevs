@@ -1,4 +1,5 @@
-![Alt Text](https://i.imgur.com/DlwkKGO.gif)
+<!-- ![Alt Text](https://i.imgur.com/DlwkKGO.gif) -->
+<img src="https://i.imgur.com/DlwkKGO.gif" width="850" height="100" />
 
 <!--
 **PaxtonDevs/PaxtonDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
